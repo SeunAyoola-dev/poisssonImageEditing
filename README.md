@@ -1,5 +1,5 @@
 # poisssonImageEditing
-This repository contains a Python implementation of several image processing operations based on the landmark paper “Poisson Image Editing” by Pérez et al.
+This repository contains a Python implementation of several image processing operations based on the landmark paper “Poisson Image Editing” by Pérez et al. (https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf)
 The project demonstrates how solving Poisson equations enables seamless blending, texture flattening, and gradient-based image manipulation.
 
 # Features 
